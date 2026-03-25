@@ -56,7 +56,6 @@ I follow a structured, review-driven workflow to ensure consistency and maintain
 
 - GitHub: https://github.com/SAM50-debug
 
-- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sanyam-kumar-045b03329) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@sanyamkumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyamkumar696@gmail.com) 
 
